@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filelist>
+	<file name="D2Revenge Launcher.exe" crc="54D57A02" restartRequired="true">
+		<link>http://45.231.215.141/updater/D2Revenge%20Launcher.exe</link>
+	</file>
+	<file name="patch_d2.mpq" crc="30ABA198" showDialog="true">
+		<link name="Download patch from D2Revenge Server">http://45.231.215.141/updater/patch_d2.mpq</link>
+		<link name="Download patch from D2Revenge GitHub">http://45.231.215.141/updater/patch_d2.mpq</link>
+	</file>
+	<file name="Revenge.dll" crc="44C51410">
+		<link>http://45.231.215.141/updater/Revenge.dll</link>
+	</file>
+</filelist>
