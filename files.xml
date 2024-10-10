@@ -1,13 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <filelist>
-	<file name="D2Revenge Launcher.exe" crc="54D57A02" restartRequired="true">
-		<link>http://45.231.215.141/updater/D2Revenge%20Launcher.exe</link>
+	<file name="D2Revenge Launcher.exe" crc="A94861F8" restartRequired="true">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/D2Revenge%20Launcher.exe</link>
 	</file>
-	<file name="patch_d2.mpq" crc="30ABA198" showDialog="true">
-		<link name="Download patch from D2Revenge Server">http://45.231.215.141/updater/patch_d2.mpq</link>
-		<link name="Download patch from D2Revenge GitHub">http://45.231.215.141/updater/patch_d2.mpq</link>
+	<file name="Game.exe" crc="1A66465A">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/Game.exe</link>
 	</file>
-	<file name="Revenge.dll" crc="44C51410">
-		<link>http://45.231.215.141/updater/Revenge.dll</link>
+	<file name="glide3x.dll" crc="AA0049CB">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/glide3x.dll</link>
 	</file>
+	<file name="Patch_D2.mpq" crc="558B5C90">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/Patch_D2.mpq</link>
+    </file>
+	<file name="Revenge.dll" crc="1445259C">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/Revenge.dll</link>
+    </file>
+	<file name="D2Game.dll" crc="C4D55238">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/D2Game.dll</link>
+    </file>
+	<file name="RevengeD2.dll" crc="AD98B743">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/RevengeD2.dll</link>
+    </file>
+	<file name="UI.ini" crc="D3CAE7B1">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/UI.ini</link>
+    </file>
+	<file name="Storm.dll" crc="5711A8B4">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/Storm.dll</link>
+    </file>
+	<file name="Autogoldpickup.dll" crc="AA19AE88">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/Autogoldpickup.dll</link>
+    </file>
+	<file name="Binkw32.dll" crc="5934B4A7">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/Binkw32.dll</link>
+    </file>
+	<file name="Bnclient.dll" crc="A4CD6743">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/Bnclient.dll</link>
+    </file>
+	<file name="D2Client.dll" crc="5F213B94">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/D2Client.dll</link>
+    </file>
+	<file name="D2CMP.dll" crc="E999AC9D">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/D2CMP.dll</link>
+    </file>
+	<file name="D2Common.dll" crc="CA2FD628">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/D2Common.dll</link>
+    </file>
+	<file name="D2CubePortal.dll" crc="9868DBD7">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/D2CubePortal.dll</link>
+    </file>
+	<file name="SGD2FreeRes.dll" crc="2367524D">
+		<link>https://github.com/jcerutti/D2Revenge/blob/main/SGD2FreeRes.dll</link>
+    </file>
+	
 </filelist>
